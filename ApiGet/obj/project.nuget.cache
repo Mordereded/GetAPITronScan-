@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NWoRrJlIi58Zi68Ur7GJQIKrYxeOJAcVJsTbnFMyp1C4J13n5eTE3wsppktcu58xOyqQO8rKT8/nkTfpdc+b6Q==",
+  "success": true,
+  "projectFilePath": "F:\\Code\\С#\\ApiGet\\ApiGet\\ApiGet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\one\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
